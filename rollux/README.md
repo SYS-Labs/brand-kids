@@ -4,13 +4,17 @@
 
 
 # Visual identity guide for **Rollux**.
-Here are the Rollux brand tools you'll need to build and promote your project.
+Here are the Rollux branding tools you'll need to build and promote your project.
 
 # 
 
 ## General guidelines
 
-**To maintain a level of consistency for all Rollux core brand assets, please keep it simple.  No drop shadows, rotations, manipulations, or effects. Use rolluxGreen (#DBEF88) or Inverted logo, and/or black wordmark (#000) to ensure visual contrasts on a light background. On a dark background, use either the rolluxGreen logomark alone, or the rolluxGreen logo with the wordmark in white (#FFF).**
+To maintain a level of consistency for all Rollux core brand assets, please keep it simple.  No drop shadows, rotations, manipulations, or effects.
+
+Use rolluxGreen (#DBEF88) or Inverted logo, and/or black wordmark (#000) to ensure visual contrasts on a light background. On a dark background, use either the rolluxGreen logomark alone, or the rolluxGreen logo with the wordmark in white (#FFF).
+
+Although the wordmark logo is all-caps, the proper use of the name within a body of typed text is "Rollux". 
 
 #
 
@@ -32,7 +36,7 @@ You should use CMYK color mode on printed materials for a proper final product. 
 
 ## Usage examples
 
-Refer to this illustration to see the proper use for each logo format
+Refer to this illustration for proper use of logo relative to backgrounds.
 
 <p align="left">
   <img src="rollux_logoUsage.png" alt="Color palette" width="500px">
