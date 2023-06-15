@@ -11,7 +11,7 @@ We will continually add more brand kits for SYS Labs' growing line of products, 
 
 #
 
-## Brands
+## Brand Kits
 
 Go to the brand kit for the specific product you are working with, or SYS Labs itself.
 
