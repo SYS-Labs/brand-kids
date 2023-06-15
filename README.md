@@ -1,7 +1,7 @@
 # Visual identity guides for SYS Labs products.
 Inside you'll find all the brand tools you'll need to build and promote your project.
 
-We will continually add more brand kits for SYS Labs growing line of products, so check back!
+We will continually add more brand kits for SYS Labs' growing line of products, so check back!
 
 # 
 
