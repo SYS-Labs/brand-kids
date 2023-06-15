@@ -3,7 +3,7 @@
 </p>
 
 
-# Visual identity guide for **Rollux**.
+# Visual identity guide for **Rollux**
 Here are the Rollux branding tools you'll need to build and promote your project.
 
 # 
@@ -23,8 +23,8 @@ Although the wordmark logo is all-caps, the proper use of the name within a body
 
 |  Logo             |   Logo w/ Wordmark, Horizontal                                           |  Logo w/ Wordmark, Vertical
 | ----------------- | ------------------------------------------------------------------ | -----------------------------------------------------------------
-|  [![LogoInverted](SVG/rollux_inverted_logo.svg)](SVG/rollux_inverted_logo.svg)  | [![WordmarkedWhiteHorizontal](SVG/rollux_horizontal_white.svg)](SVG/rollux_horizontal_white.svg) | [![WordmarkedWhiteVertical](SVG/rollux_vertical_white.svg)](SVG/rollux_vertical_white.svg)
-|  [![LogoGreen](SVG/rollux_logo.svg)](SVG/rollux_logo.svg)  | [![WordmarkedGreenHorizontal](SVG/rollux_horizontal.svg)](SVG/rollux_horizontal.svg) | [![WordmarkedGreenVertical](SVG/rollux_vertical.svg)](SVG/rollux_vertical.svg)
+|  [![LogoGreen](SVG/rollux_logo.svg)](SVG/rollux_logo.svg)  | [![WordmarkedWhiteHorizontal](SVG/rollux_horizontal_white.svg)](SVG/rollux_horizontal_white.svg) | [![WordmarkedWhiteVertical](SVG/rollux_vertical_white.svg)](SVG/rollux_vertical_white.svg)
+|  [![LogoInverted](SVG/rollux_inverted_logo.svg)](SVG/rollux_inverted_logo.svg)  | [![WordmarkedGreenHorizontal](SVG/rollux_horizontal.svg)](SVG/rollux_horizontal.svg) | [![WordmarkedGreenVertical](SVG/rollux_vertical.svg)](SVG/rollux_vertical.svg)
 
 #
 

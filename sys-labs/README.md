@@ -3,7 +3,7 @@
 </p>
 
 
-# Visual identity guide for **SYS Labs**.
+# Visual identity guide for **SYS Labs**
 Here are the SYS Labs branding tools you'll need to build and promote your project.
 
 # 
