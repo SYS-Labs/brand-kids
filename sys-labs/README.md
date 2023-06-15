@@ -4,13 +4,17 @@
 
 
 # Visual identity guide for **SYS Labs**.
-Here are the SYS Labs brand tools you'll need to build and promote your project.
+Here are the SYS Labs branding tools you'll need to build and promote your project.
 
 # 
 
 ## General guidelines
 
-**To maintain a level of consistency for all SYS Labs core brand assets, please keep it simple.  No drop shadows, rotations, manipulations, or effects. Use sysLabsOrange (#EDA25D) and black (#000) to ensure visual contrasts on a light background. On a dark background, use either the sysLabsOrange or white (#FFF) logomark alone, or a logo with the wordmark in white.**
+To maintain a level of consistency for all SYS Labs core brand assets, please keep it simple.  No drop shadows, rotations, manipulations, or effects.
+
+Use sysLabsOrange (#EDA25D) and black (#000) to ensure visual contrasts on a light background. On a dark background, use either the sysLabsOrange or white (#FFF) logomark alone, or a logo with the wordmark in white.
+
+Although wordmark logo is all-caps, the proper use of the name within a body of typed text is "SYS Labs". 
 
 #
 
@@ -32,7 +36,7 @@ You should use CMYK color mode on printed materials for a proper final product. 
 
 ## Usage examples
 
-Refer to this illustration to see the proper use for each logo format
+Refer to this illustration for proper use of logo relative to backgrounds.
 
 <p align="left">
   <img src="syslabs_logoUsage.png" alt="Color palette" width="500px">
@@ -40,7 +44,7 @@ Refer to this illustration to see the proper use for each logo format
 
 ## Color Palette
 
-If you wish to align surrounding material or content with the SYS Labs branding, you can obtain color samples and usage ratios from these swatches.
+If you wish to align surrounding material or content with SYS Labs' branding, you can obtain color samples and usage ratios from these swatches.
 
 <p align="left">
   <img src="syslabs_colorPalette.png" alt="Color palette" width="500px">
