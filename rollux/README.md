@@ -19,8 +19,8 @@ Here are the Rollux brand tools you'll need to build and promote your project.
 
 |  Logo             |   Logo w/ Wordmark, Horizontal                                           |  Logo w/ Wordmark, Vertical
 | ----------------- | ------------------------------------------------------------------ | -----------------------------------------------------------------
-|  [![LogoGreen](SVG/rollux_logo.svg)](SVG/rollux_logo.svg)  | [![WordmarkedGreenHorizontal](SVG/rollux_horizontal.svg)](SVG/rollux_horizontal.svg) | [![WordmarkedGreenVertical](SVG/rollux_vertical.svg)](SVG/rollux_vertical.svg)
 |  [![LogoInverted](SVG/rollux_inverted_logo.svg)](SVG/rollux_logo_white.svg)  | [![WordmarkedWhiteHorizontal](SVG/rollux_horizontal_white.svg)](SVG/rollux_horizontal_white.svg) | [![WordmarkedWhiteVertical](SVG/rollux_vertical_white.svg)](SVG/rollux_vertical_white.svg)
+|  [![LogoGreen](SVG/rollux_logo.svg)](SVG/rollux_logo.svg)  | [![WordmarkedGreenHorizontal](SVG/rollux_horizontal.svg)](SVG/rollux_horizontal.svg) | [![WordmarkedGreenVertical](SVG/rollux_vertical.svg)](SVG/rollux_vertical.svg)
 
 #
 

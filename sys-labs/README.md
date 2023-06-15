@@ -19,8 +19,8 @@ Here are the SYS Labs brand tools you'll need to build and promote your project.
 
 |  Logo             |   Logo w/ Wordmark, Horizontal                                           |  Logo w/ Wordmark, Vertical
 | ----------------- | ------------------------------------------------------------------ | -----------------------------------------------------------------
-|  [![LogoOrange](SVG/syslabs_logo.svg)](SVG/syslabs_logo.svg)  | [![WordmarkedOrangeHorizontal](SVG/syslabs_horizontal.svg)](SVG/syslabs_horizontal.svg) | [![WordmarkedOrangeVertical](SVG/syslabs_vertical.svg)](SVG/syslabs_vertical.svg)
 |  [![LogoWhite](SVG/syslabs_logo_white.svg)](SVG/syslabs_logo_white.svg)  | [![WordmarkedWhiteHorizontal](SVG/syslabs_horizontal_white.svg)](SVG/syslabs_horizontal_white.svg) | [![WordmarkedWhiteVertical](SVG/syslabs_vertical_white.svg)](SVG/syslabs_vertical_white.svg)
+|  [![LogoOrange](SVG/syslabs_logo.svg)](SVG/syslabs_logo.svg)  | [![WordmarkedOrangeHorizontal](SVG/syslabs_horizontal.svg)](SVG/syslabs_horizontal.svg) | [![WordmarkedOrangeVertical](SVG/syslabs_vertical.svg)](SVG/syslabs_vertical.svg)
 
 #
 
