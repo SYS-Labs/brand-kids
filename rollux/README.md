@@ -12,7 +12,7 @@ Here are the Rollux branding tools you'll need to build and promote your project
 
 To maintain a level of consistency for all Rollux core brand assets, please keep it simple.  No drop shadows, rotations, manipulations, or effects.
 
-Use rolluxGreen (#DBEF88) or Inverted logo, and/or black wordmark (#000) to ensure visual contrasts on a light background. On a dark background, use either the rolluxGreen logomark alone, or the rolluxGreen logo with the wordmark in white (#FFF).
+On a light background, use rolluxGreen (#DBEF88) or Inverted logo and/or black wordmark (#000) to ensure visual contrasts. On a dark background, use either the rolluxGreen logomark alone or the rolluxGreen logo with the wordmark in white (#FFF).
 
 Although the wordmark logo is all-caps, the proper use of the name within a body of typed text is "Rollux". 
 
@@ -25,6 +25,14 @@ Although the wordmark logo is all-caps, the proper use of the name within a body
 | ----------------- | ------------------------------------------------------------------ | -----------------------------------------------------------------
 |  [![LogoGreen](SVG/rollux_logo.svg)](SVG/rollux_logo.svg)  | [![WordmarkedWhiteHorizontal](SVG/rollux_horizontal_white.svg)](SVG/rollux_horizontal_white.svg) | [![WordmarkedWhiteVertical](SVG/rollux_vertical_white.svg)](SVG/rollux_vertical_white.svg)
 |  [![LogoInverted](SVG/rollux_inverted_logo.svg)](SVG/rollux_inverted_logo.svg)  | [![WordmarkedGreenHorizontal](SVG/rollux_horizontal.svg)](SVG/rollux_horizontal.svg) | [![WordmarkedGreenVertical](SVG/rollux_vertical.svg)](SVG/rollux_vertical.svg)
+
+#
+
+## Icons on IPFS
+
+Rollux icons are pinned on IPFS, available as PNGs in square dimensions of 512, 256, 128, 64, 32 and 16 pixels. These are useful for exchanges, market aggregators, or other services.
+
+https://bafybeibluhkwnbw5berqkfop7xvetcgmny5jyyf4exywzami6ykckfrgza.ipfs.dweb.link/
 
 #
 
